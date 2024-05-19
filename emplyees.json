@@ -2,1801 +2,1801 @@
   {
     "id": "1",
     "fullname": "John Smith",
-    "position": "manager",
+    "group": "Managers",
     "email": "john.smith@example.com"
   },
   {
     "id": "2",
     "fullname": "Jane Johnson",
-    "position": "manager",
+    "group": "Managers",
     "email": "jane.johnson@example.com"
   },
   {
     "id": "3",
     "fullname": "Michael Davis",
-    "position": "manager",
+    "group": "Managers",
     "email": "michael.davis@example.com"
   },
   {
     "id": "4",
     "fullname": "Emily Wilson",
-    "position": "manager",
+    "group": "Managers",
     "email": "emily.wilson@example.com"
   },
   {
     "id": "5",
     "fullname": "David Thompson",
-    "position": "manager",
+    "group": "Managers",
     "email": "david.thompson@example.com"
   },
   {
     "id": "6",
     "fullname": "Amy Brown",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "amy.brown@example.com"
   },
   {
     "id": "7",
     "fullname": "Robert Lee",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "robert.lee@example.com"
   },
   {
     "id": "8",
     "fullname": "Jennifer Lopez",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "jennifer.lopez@example.com"
   },
   {
     "id": "9",
     "fullname": "Daniel Harris",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "daniel.harris@example.com"
   },
   {
     "id": "10",
     "fullname": "Sophia Clark",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "sophia.clark@example.com"
   },
   {
     "id": "11",
     "fullname": "Oliver Green",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "oliver.green@example.com"
   },
   {
     "id": "12",
     "fullname": "Emma Martinez",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "emma.martinez@example.com"
   },
   {
     "id": "13",
     "fullname": "Christopher Taylor",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "christopher.taylor@example.com"
   },
   {
     "id": "14",
     "fullname": "Isabella Anderson",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "isabella.anderson@example.com"
   },
   {
     "id": "15",
     "fullname": "Alexander Thomas",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "alexander.thomas@example.com"
   },
   {
     "id": "16",
     "fullname": "Mia White",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "mia.white@example.com"
   },
   {
     "id": "17",
     "fullname": "Ethan Hall",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "ethan.hall@example.com"
   },
   {
     "id": "18",
     "fullname": "Abigail Young",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "abigail.young@example.com"
   },
   {
     "id": "19",
     "fullname": "James King",
-    "position": "HR",
+    "group": "HR",
     "email": "james.king@example.com"
   },
   {
     "id": "20",
     "fullname": "Ava Baker",
-    "position": "HR",
+    "group": "HR",
     "email": "ava.baker@example.com"
   },
   {
     "id": "21",
     "fullname": "Benjamin Hill",
-    "position": "HR",
+    "group": "HR",
     "email": "benjamin.hill@example.com"
   },
   {
     "id": "22",
     "fullname": "Charlotte Adams",
-    "position": "HR",
+    "group": "HR",
     "email": "charlotte.adams@example.com"
   },
   {
     "id": "23",
     "fullname": "Henry Wright",
-    "position": "HR",
+    "group": "HR",
     "email": "henry.wright@example.com"
   },
   {
     "id": "24",
     "fullname": "Grace Nelson",
-    "position": "HR",
+    "group": "HR",
     "email": "grace.nelson@example.com"
   },
   {
     "id": "25",
     "fullname": "Samuel Campbell",
-    "position": "HR",
+    "group": "HR",
     "email": "samuel.campbell@example.com"
   },
   {
     "id": "26",
     "fullname": "Lillian Mitchell",
-    "position": "HR",
+    "group": "HR",
     "email": "lillian.mitchell@example.com"
   },
   {
     "id": "27",
     "fullname": "Sebastian Roberts",
-    "position": "HR",
+    "group": "HR",
     "email": "sebastian.roberts@example.com"
   },
   {
     "id": "28",
     "fullname": "Sofia Carter",
-    "position": "HR",
+    "group": "HR",
     "email": "sofia.carter@example.com"
   },
   {
     "id": "29",
     "fullname": "Andrew Phillips",
-    "position": "HR",
+    "group": "HR",
     "email": "andrew.phillips@example.com"
   },
   {
     "id": "30",
     "fullname": "Victoria Evans",
-    "position": "HR",
+    "group": "HR",
     "email": "victoria.evans@example.com"
   },
   {
     "id": "31",
     "fullname": "Joseph Rivera",
-    "position": "HR",
+    "group": "HR",
     "email": "joseph.rivera@example.com"
   },
   {
     "id": "32",
     "fullname": "Penelope Torres",
-    "position": "HR",
+    "group": "HR",
     "email": "penelope.torres@example.com"
   },
   {
     "id": "33",
     "fullname": "Levi Peterson",
-    "position": "HR",
+    "group": "HR",
     "email": "levi.peterson@example.com"
   },
   {
     "id": "34",
     "fullname": "Madison Gray",
-    "position": "HR",
+    "group": "HR",
     "email": "madison.gray@example.com"
   },
   {
     "id": "35",
     "fullname": "Joshua Ramirez",
-    "position": "HR",
+    "group": "HR",
     "email": "joshua.ramirez@example.com"
   },
   {
     "id": "36",
     "fullname": "Chloe Watson",
-    "position": "HR",
+    "group": "HR",
     "email": "chloe.watson@example.com"
   },
   {
     "id": "37",
     "fullname": "Aaron Brooks",
-    "position": "HR",
+    "group": "HR",
     "email": "aaron.brooks@example.com"
   },
   {
     "id": "38",
     "fullname": "Zoe Bennett",
-    "position": "HR",
+    "group": "HR",
     "email": "zoe.bennett@example.com"
   },
   {
     "id": "39",
     "fullname": "Nathan Reed",
-    "position": "QA",
+    "group": "QA",
     "email": "nathan.reed@example.com"
   },
   {
     "id": "40",
     "fullname": "Audrey Cooper",
-    "position": "QA",
+    "group": "QA",
     "email": "audrey.cooper@example.com"
   },
   {
     "id": "41",
     "fullname": "Elijah Morgan",
-    "position": "QA",
+    "group": "QA",
     "email": "elijah.morgan@example.com"
   },
   {
     "id": "42",
     "fullname": "Natalie Sanchez",
-    "position": "QA",
+    "group": "QA",
     "email": "natalie.sanchez@example.com"
   },
   {
     "id": "43",
     "fullname": "Gavin Ross",
-    "position": "QA",
+    "group": "QA",
     "email": "gavin.ross@example.com"
   },
   {
     "id": "44",
     "fullname": "Hannah Powell",
-    "position": "QA",
+    "group": "QA",
     "email": "hannah.powell@example.com"
   },
   {
     "id": "45",
     "fullname": "Isaac Simmons",
-    "position": "QA",
+    "group": "QA",
     "email": "isaac.simmons@example.com"
   },
   {
     "id": "46",
     "fullname": "Lily Murphy",
-    "position": "QA",
+    "group": "QA",
     "email": "lily.murphy@example.com"
   },
   {
     "id": "47",
     "fullname": "Owen Perry",
-    "position": "QA",
+    "group": "QA",
     "email": "owen.perry@example.com"
   },
   {
     "id": "48",
     "fullname": "Daria Vasnetsova",
-    "position": "QA",
+    "group": "QA",
     "email": "daria.vasnetsova@example.com"
   },
   {
     "id": "49",
     "fullname": "Lucas Long",
-    "position": "QA",
+    "group": "QA",
     "email": "lucas.long@example.com"
   },
   {
     "id": "50",
     "fullname": "Leah Foster",
-    "position": "QA",
+    "group": "QA",
     "email": "leah.foster@example.com"
   },
   {
     "id": "51",
     "fullname": "Lex Luther",
-    "position": "manager",
+    "group": "Managers",
     "email": "lexluther@example.com"
   },
   {
     "id": "52",
     "fullname": "Jane Smith",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "janesmith@example.com"
   },
   {
     "id": "53",
     "fullname": "Michael Johnson",
-    "position": "HR",
+    "group": "HR",
     "email": "michaeljohnson@example.com"
   },
   {
     "id": "54",
     "fullname": "Sarah Davis",
-    "position": "QA",
+    "group": "QA",
     "email": "sarahdavis@example.com"
   },
   {
     "id": "55",
     "fullname": "Robert Brown",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "robertbrown@example.com"
   },
   {
     "id": "56",
     "fullname": "Ivan Petrov",
-    "position": "QA",
+    "group": "QA",
     "email": "ivanpetrov@example.com"
   },
   {
     "id": "57",
     "fullname": "David Taylor",
-    "position": "manager",
+    "group": "Managers",
     "email": "davidtaylor@example.com"
   },
   {
     "id": "58",
     "fullname": "Olivia Martinez",
-    "position": "HR",
+    "group": "HR",
     "email": "oliviamartinez@example.com"
   },
   {
     "id": "59",
     "fullname": "Daniel Anderson",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "danielanderson@example.com"
   },
   {
     "id": "60",
     "fullname": "Sophia Thomas",
-    "position": "HR",
+    "group": "HR",
     "email": "sophiathomas@example.com"
   },
   {
     "id": "61",
     "fullname": "Matthew Hernandez",
-    "position": "QA",
+    "group": "QA",
     "email": "matthewhernandez@example.com"
   },
   {
     "id": "62",
     "fullname": "Chloe Moore",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "chloemoore@example.com"
   },
   {
     "id": "63",
     "fullname": "Andrew Clark",
-    "position": "manager",
+    "group": "Managers",
     "email": "andrewclark@example.com"
   },
   {
     "id": "64",
     "fullname": "Ava Rodriguez",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "avarodriguez@example.com"
   },
   {
     "id": "65",
     "fullname": "Ethan Lewis",
-    "position": "HR",
+    "group": "HR",
     "email": "ethanlewis@example.com"
   },
   {
     "id": "66",
     "fullname": "Mia Lee",
-    "position": "QA",
+    "group": "QA",
     "email": "miale@example.com"
   },
   {
     "id": "67",
     "fullname": "James Walker",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "jameswalker@example.com"
   },
   {
     "id": "68",
     "fullname": "Isabella Hall",
-    "position": "QA",
+    "group": "QA",
     "email": "isabellahall@example.com"
   },
   {
     "id": "69",
     "fullname": "Benjamin Young",
-    "position": "manager",
+    "group": "Managers",
     "email": "benjaminyoung@example.com"
   },
   {
     "id": "70",
     "fullname": "Sophia Scott",
-    "position": "HR",
+    "group": "HR",
     "email": "sophiascott@example.com"
   },
   {
     "id": "71",
     "fullname": "Alexander King",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "alexanderking@example.com"
   },
   {
     "id": "72",
     "fullname": "Madison Green",
-    "position": "HR",
+    "group": "HR",
     "email": "madisongreen@example.com"
   },
   {
     "id": "73",
     "fullname": "Joseph Baker",
-    "position": "QA",
+    "group": "QA",
     "email": "josephbaker@example.com"
   },
   {
     "id": "74",
     "fullname": "Abigail Adams",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "abigailadams@example.com"
   },
   {
     "id": "75",
     "fullname": "Samuel Hill",
-    "position": "manager",
+    "group": "Managers",
     "email": "samuelhill@example.com"
   },
   {
     "id": "76",
     "fullname": "Samantha Turner",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "samanthaturner@example.com"
   },
   {
     "id": "77",
     "fullname": "Christopher Cook",
-    "position": "HR",
+    "group": "HR",
     "email": "christophercook@example.com"
   },
   {
     "id": "78",
     "fullname": "Avery Ward",
-    "position": "QA",
+    "group": "QA",
     "email": "averyward@example.com"
   },
   {
     "id": "79",
     "fullname": "Elizabeth Foster",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "elizabethfoster@example.com"
   },
   {
     "id": "80",
     "fullname": "David Morgan",
-    "position": "QA",
+    "group": "QA",
     "email": "davidmorgan@example.com"
   },
   {
     "id": "81",
     "fullname": "Scarlett Kelly",
-    "position": "manager",
+    "group": "Managers",
     "email": "scarlettkelly@example.com"
   },
   {
     "id": "82",
     "fullname": "Victoria Bennett",
-    "position": "HR",
+    "group": "HR",
     "email": "victoriabennett@example.com"
   },
   {
     "id": "83",
     "fullname": "Josephine Simmons",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "josephinesimmons@example.com"
   },
   {
     "id": "84",
     "fullname": "Henry Coleman",
-    "position": "HR",
+    "group": "HR",
     "email": "henrycoleman@example.com"
   },
   {
     "id": "85",
     "fullname": "Liam Gray",
-    "position": "QA",
+    "group": "QA",
     "email": "liamgray@example.com"
   },
   {
     "id": "86",
     "fullname": "Henry Hall",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "henryhall@example.com"
   },
   {
     "id": "87",
     "fullname": "Christopher Reed",
-    "position": "manager",
+    "group": "Managers",
     "email": "christopherreed@example.com"
   },
   {
     "id": "88",
     "fullname": "Zoe Murphy",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "zoemurphy@example.com"
   },
   {
     "id": "89",
     "fullname": "Samuel Wood",
-    "position": "HR",
+    "group": "HR",
     "email": "samuelwood@example.com"
   },
   {
     "id": "90",
     "fullname": "Nora Cooper",
-    "position": "QA",
+    "group": "QA",
     "email": "noracooper@example.com"
   },
   {
     "id": "91",
     "fullname": "John Peterson",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "johnpeterson@example.com"
   },
   {
     "id": "92",
     "fullname": "Penelope Richardson",
-    "position": "QA",
+    "group": "QA",
     "email": "peneloperichardson@example.com"
   },
   {
     "id": "93",
     "fullname": "Gabriel Rivera",
-    "position": "manager",
+    "group": "Managers",
     "email": "gabrielrivera@example.com"
   },
   {
     "id": "94",
     "fullname": "Hannah Reed",
-    "position": "HR",
+    "group": "HR",
     "email": "hannahreed@example.com"
   },
   {
     "id": "95",
     "fullname": "Anthony Ward",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "anthonyward@example.com"
   },
   {
     "id": "96",
     "fullname": "Lily Bell",
-    "position": "HR",
+    "group": "HR",
     "email": "lilybell@example.com"
   },
   {
     "id": "97",
     "fullname": "Christopher Turner",
-    "position": "QA",
+    "group": "QA",
     "email": "christopherturner@example.com"
   },
   {
     "id": "98",
     "fullname": "Ella Cox",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ellacox@example.com"
   },
   {
     "id": "99",
     "fullname": "Andrew Coleman",
-    "position": "manager",
+    "group": "Managers",
     "email": "andrewcoleman@example.com"
   },
   {
     "id": "100",
     "fullname": "Vriska Serket",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "homestuck@example.com"
   },
   {
     "id": "101",
     "fullname": "Mark Markson",
-    "position": "manager",
+    "group": "Managers",
     "email": "markmarkson.com"
   },
   {
     "id": "102",
     "fullname": "Mad Max",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "madmax@example.com"
   },
   {
     "id": "103",
     "fullname": "Mark Johnson",
-    "position": "HR",
+    "group": "HR",
     "email": "markjohnson@example.com"
   },
   {
     "id": "104",
     "fullname": "Sarah Williams",
-    "position": "QA",
+    "group": "QA",
     "email": "sarahwilliams@example.com"
   },
   {
     "id": "105",
     "fullname": "Michael Brown",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "michaelbrown@example.com"
   },
   {
     "id": "106",
     "fullname": "Alex Rodriguez",
-    "position": "manager",
+    "group": "Managers",
     "email": "alexrodriguez@example.com"
   },
   {
     "id": "107",
     "fullname": "Emily Davis",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "emilydavis@example.com"
   },
   {
     "id": "108",
     "fullname": "Chris Wilson",
-    "position": "HR",
+    "group": "HR",
     "email": "chriswilson@example.com"
   },
   {
     "id": "109",
     "fullname": "Lisa Taylor",
-    "position": "QA",
+    "group": "QA",
     "email": "lisataylor@example.com"
   },
   {
     "id": "110",
     "fullname": "Ryan Martinez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ryanmartinez@example.com"
   },
   {
     "id": "111",
     "fullname": "Kirill Sidorov",
-    "position": "manager",
+    "group": "Managers",
     "email": "kirillsidorov@example.com"
   },
   {
     "id": "112",
     "fullname": "Olivia Clark",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "oliviaclark@example.com"
   },
   {
     "id": "113",
     "fullname": "Andrew Lewis",
-    "position": "HR",
+    "group": "HR",
     "email": "andrewlewis@example.com"
   },
   {
     "id": "114",
     "fullname": "Sophia Hall",
-    "position": "QA",
+    "group": "QA",
     "email": "sophiahall@example.com"
   },
   {
     "id": "115",
     "fullname": "Jessica Young",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "jessicayoung@example.com"
   },
   {
     "id": "116",
     "fullname": "Daniel Walker",
-    "position": "manager",
+    "group": "Managers",
     "email": "danielwalker@example.com"
   },
   {
     "id": "117",
     "fullname": "Mia Hernandez",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "miahernandez@example.com"
   },
   {
     "id": "118",
     "fullname": "Benjamin King",
-    "position": "HR",
+    "group": "HR",
     "email": "benjaminking@example.com"
   },
   {
     "id": "119",
     "fullname": "Ava Green",
-    "position": "QA",
+    "group": "QA",
     "email": "avagreen@example.com"
   },
   {
     "id": "120",
     "fullname": "Ethan Baker",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ethanbaker@example.com"
   },
   {
     "id": "121",
     "fullname": "Sophia Wright",
-    "position": "manager",
+    "group": "Managers",
     "email": "sophiawright@example.com"
   },
   {
     "id": "122",
     "fullname": "Samuel Lopez",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "samuellopez@example.com"
   },
   {
     "id": "123",
     "fullname": "Chloe Hill",
-    "position": "HR",
+    "group": "HR",
     "email": "chloehill@example.com"
   },
   {
     "id": "124",
     "fullname": "Liam Scott",
-    "position": "QA",
+    "group": "QA",
     "email": "liamscott@example.com"
   },
   {
     "id": "125",
     "fullname": "Grace Adams",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "graceadams@example.com"
   },
   {
     "id": "126",
     "fullname": "Oliver Murphy",
-    "position": "manager",
+    "group": "Managers",
     "email": "olivermurphy@example.com"
   },
   {
     "id": "127",
     "fullname": "Natalie Rivera",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "natalierivera@example.com"
   },
   {
     "id": "128",
     "fullname": "Henry Cooper",
-    "position": "HR",
+    "group": "HR",
     "email": "henrycooper@example.com"
   },
   {
     "id": "129",
     "fullname": "Zoe Ward",
-    "position": "QA",
+    "group": "QA",
     "email": "zoeward@example.com"
   },
   {
     "id": "130",
     "fullname": "Lucas Reed",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "lucasreed@example.com"
   },
   {
     "id": "131",
     "fullname": "Lily Stewart",
-    "position": "manager",
+    "group": "Managers",
     "email": "lilystewart@example.com"
   },
   {
     "id": "132",
     "fullname": "Gabriel Morgan",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "gabrielmorgan@example.com"
   },
   {
     "id": "133",
     "fullname": "Victoria Turner",
-    "position": "HR",
+    "group": "HR",
     "email": "victoriaturner@example.com"
   },
   {
     "id": "134",
     "fullname": "Caleb Cox",
-    "position": "QA",
+    "group": "QA",
     "email": "calebcox@example.com"
   },
   {
     "id": "135",
     "fullname": "Avery Bailey",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "averybailey@example.com"
   },
   {
     "id": "136",
     "fullname": "Ella Rogers",
-    "position": "manager",
+    "group": "Managers",
     "email": "ellarogers@example.com"
   },
   {
     "id": "137",
     "fullname": "Jackson Gray",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "jacksongray@example.com"
   },
   {
     "id": "138",
     "fullname": "Scarlett Bell",
-    "position": "HR",
+    "group": "HR",
     "email": "scarlettbell@example.com"
   },
   {
     "id": "139",
     "fullname": "Owen Ward",
-    "position": "QA",
+    "group": "QA",
     "email": "owenward@example.com"
   },
   {
     "id": "140",
     "fullname": "Aria Murphy",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ariamurphy@example.com"
   },
   {
     "id": "141",
     "fullname": "Lucas Powell",
-    "position": "manager",
+    "group": "Managers",
     "email": "lucaspowell@example.com"
   },
   {
     "id": "142",
     "fullname": "Layla Collins",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "laylacollins@example.com"
   },
   {
     "id": "143",
     "fullname": "Jack Ross",
-    "position": "HR",
+    "group": "HR",
     "email": "jackross@example.com"
   },
   {
     "id": "144",
     "fullname": "Aria Kelly",
-    "position": "QA",
+    "group": "QA",
     "email": "ariakelly@example.com"
   },
   {
     "id": "145",
     "fullname": "Sebastian Bennett",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "sebastianbennett@example.com"
   },
   {
     "id": "146",
     "fullname": "Mila Wood",
-    "position": "manager",
+    "group": "Managers",
     "email": "milawood@example.com"
   },
   {
     "id": "147",
     "fullname": "Wyatt Torres",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "wyatttorres@example.com"
   },
   {
     "id": "148",
     "fullname": "Leah Ward",
-    "position": "HR",
+    "group": "HR",
     "email": "leahward@example.com"
   },
   {
     "id": "149",
     "fullname": "Grayson Cox",
-    "position": "QA",
+    "group": "QA",
     "email": "graysoncox@example.com"
   },
   {
     "id": "150",
     "fullname": "Evelyn Foster",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "evelynfoster@example.com"
   },
   {
     "id": "151",
     "fullname": "Artem Adams",
-    "position": "manager",
+    "group": "Managers",
     "email": "artemadams@example.com"
   },
   {
     "id": "152",
     "fullname": "Doctor Who",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "doctorwho@example.com"
   },
   {
     "id": "153",
     "fullname": "Michael Jackson",
-    "position": "HR",
+    "group": "HR",
     "email": "hehe@example.com"
   },
   {
     "id": "154",
     "fullname": "Emily Davis",
-    "position": "QA",
+    "group": "QA",
     "email": "emilydavis@example.com"
   },
   {
     "id": "155",
     "fullname": "Robert Black",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "robertblack@example.com"
   },
   {
     "id": "156",
     "fullname": "Samantha Wilson",
-    "position": "manager",
+    "group": "Managers",
     "email": "samanthawilson@example.com"
   },
   {
     "id": "157",
     "fullname": "Cory Taylor",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "eeeerock@example.com"
   },
   {
     "id": "158",
     "fullname": "Olivia Olivie",
-    "position": "HR",
+    "group": "HR",
     "email": "smayonezom@example.com"
   },
   {
     "id": "159",
     "fullname": "Christopher Anderson",
-    "position": "QA",
+    "group": "QA",
     "email": "christopheranderson@example.com"
   },
   {
     "id": "160",
     "fullname": "Carl Johnson",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "groovestreetforlife@example.com"
   },
   {
     "id": "161",
     "fullname": "William Hernandez",
-    "position": "manager",
+    "group": "Managers",
     "email": "williamhernandez@example.com"
   },
   {
     "id": "162",
     "fullname": "Ava Lopez",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "avalopez@example.com"
   },
   {
     "id": "163",
     "fullname": "Emma Gonzalez",
-    "position": "HR",
+    "group": "HR",
     "email": "emmagonzalez@example.com"
   },
   {
     "id": "164",
     "fullname": "James Perez",
-    "position": "QA",
+    "group": "QA",
     "email": "jamesperez@example.com"
   },
   {
     "id": "165",
     "fullname": "Isabella Smith",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "isabellasmith@example.com"
   },
   {
     "id": "166",
     "fullname": "Benjamin Lee",
-    "position": "manager",
+    "group": "Managers",
     "email": "benjaminlee@example.com"
   },
   {
     "id": "167",
     "fullname": "Mia Harris",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "miaharris@example.com"
   },
   {
     "id": "168",
     "fullname": "Lucas Clark",
-    "position": "HR",
+    "group": "HR",
     "email": "lucasclark@example.com"
   },
   {
     "id": "169",
     "fullname": "Charlotte Rodriguez",
-    "position": "QA",
+    "group": "QA",
     "email": "charlotterodriguez@example.com"
   },
   {
     "id": "170",
     "fullname": "Henry Martinez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "henrymartinez@example.com"
   },
   {
     "id": "171",
     "fullname": "Alexander Thompson",
-    "position": "manager",
+    "group": "Managers",
     "email": "alexanderthompson@example.com"
   },
   {
     "id": "172",
     "fullname": "Amelia Walker",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "ameliawalker@example.com"
   },
   {
     "id": "173",
     "fullname": "Evelyn Lewis",
-    "position": "HR",
+    "group": "HR",
     "email": "evelynlewis@example.com"
   },
   {
     "id": "174",
     "fullname": "Daniel King",
-    "position": "QA",
+    "group": "QA",
     "email": "danielking@example.com"
   },
   {
     "id": "175",
     "fullname": "Sophia Hernandez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "sophiahernandez@example.com"
   },
   {
     "id": "176",
     "fullname": "Matthew Young",
-    "position": "manager",
+    "group": "Managers",
     "email": "matthewyoung@example.com"
   },
   {
     "id": "177",
     "fullname": "Abigail Scott",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "abigailscott@example.com"
   },
   {
     "id": "178",
     "fullname": "Harper Hall",
-    "position": "HR",
+    "group": "HR",
     "email": "harperhall@example.com"
   },
   {
     "id": "179",
     "fullname": "Ken Barby",
-    "position": "QA",
+    "group": "QA",
     "email": "iamabarbyboy@example.com"
   },
   {
     "id": "180",
     "fullname": "Grace Wilson",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "gracewilson@example.com"
   },
   {
     "id": "181",
     "fullname": "Daniel Thomas",
-    "position": "manager",
+    "group": "Managers",
     "email": "danielthomas@example.com"
   },
   {
     "id": "182",
     "fullname": "Elizabeth Mitchell",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "elizabethmitchell@example.com"
   },
   {
     "id": "183",
     "fullname": "Avery Adams",
-    "position": "HR",
+    "group": "HR",
     "email": "averyadams@example.com"
   },
   {
     "id": "184",
     "fullname": "Michael Lee",
-    "position": "QA",
+    "group": "QA",
     "email": "michaellee@example.com"
   },
   {
     "id": "185",
     "fullname": "Liam Perez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "liamperez@example.com"
   },
   {
     "id": "186",
     "fullname": "Elijah Harris",
-    "position": "manager",
+    "group": "Managers",
     "email": "elijahharris@example.com"
   },
   {
     "id": "187",
     "fullname": "Evelyn Davis",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "evelyndavis@example.com"
   },
   {
     "id": "188",
     "fullname": "Layla Turner",
-    "position": "HR",
+    "group": "HR",
     "email": "laylaturner@example.com"
   },
   {
     "id": "189",
     "fullname": "Logan Martinez",
-    "position": "QA",
+    "group": "QA",
     "email": "loganmartinez@example.com"
   },
   {
     "id": "190",
     "fullname": "Mia Wilson",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "miawilson@example.com"
   },
   {
     "id": "191",
     "fullname": "Carter Thompson",
-    "position": "manager",
+    "group": "Managers",
     "email": "carterthompson@example.com"
   },
   {
     "id": "192",
     "fullname": "Scarlett Clark",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "scarlettclark@example.com"
   },
   {
     "id": "193",
     "fullname": "Victoria Rodriguez",
-    "position": "HR",
+    "group": "HR",
     "email": "victoriarodriguez@example.com"
   },
   {
     "id": "194",
     "fullname": "Sebastian Young",
-    "position": "QA",
+    "group": "QA",
     "email": "sebastianyoung@example.com"
   },
   {
     "id": "195",
     "fullname": "Eleanor Anderson",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "eleanoranderson@example.com"
   },
   {
     "id": "196",
     "fullname": "Jayden Hernandez",
-    "position": "manager",
+    "group": "Managers",
     "email": "jaydenhernandez@example.com"
   },
   {
     "id": "197",
     "fullname": "Penelope Walker",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "penelopewalker@example.com"
   },
   {
     "id": "198",
     "fullname": "Nora Lewis",
-    "position": "HR",
+    "group": "HR",
     "email": "noralewis@example.com"
   },
   {
     "id": "199",
     "fullname": "Levi King",
-    "position": "QA",
+    "group": "QA",
     "email": "leviking@example.com"
   },
   {
     "id": "200",
     "fullname": "Aria Hernandez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ariahernandez@example.com"
   },
   {
     "id": "201",
     "fullname": "Isaac Aaron",
-    "position": "manager",
+    "group": "Managers",
     "email": "isaacaaron@example.com"
   },
   {
     "id": "202",
     "fullname": "Vladimir Lenin",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "vladimirlenin@example.com"
   },
   {
     "id": "203",
     "fullname": "Patrick Bateman",
-    "position": "HR",
+    "group": "HR",
     "email": "patrickbateman@example.com"
   },
   {
     "id": "204",
     "fullname": "Sara Williams",
-    "position": "QA",
+    "group": "QA",
     "email": "sarawilliams@example.com"
   },
   {
     "id": "205",
     "fullname": "Robert Gray",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "robetgray@example.com"
   },
   {
     "id": "206",
     "fullname": "Emily Davis",
-    "position": "manager",
+    "group": "Managers",
     "email": "emilydavis@example.com"
   },
   {
     "id": "207",
     "fullname": "Daniel Wilson",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "danielwilson@example.com"
   },
   {
     "id": "208",
     "fullname": "Olivia Taylor",
-    "position": "HR",
+    "group": "HR",
     "email": "oliviataylor@example.com"
   },
   {
     "id": "209",
     "fullname": "Matthew Anderson",
-    "position": "QA",
+    "group": "QA",
     "email": "matthewanderson@example.com"
   },
   {
     "id": "210",
     "fullname": "Sophia Martinez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "sophiamartinez@example.com"
   },
   {
     "id": "211",
     "fullname": "David Thomas",
-    "position": "manager",
+    "group": "Managers",
     "email": "davidthomas@example.com"
   },
   {
     "id": "212",
     "fullname": "Isabella Hernandez",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "isabellahernandez@example.com"
   },
   {
     "id": "213",
     "fullname": "Joseph Clark",
-    "position": "HR",
+    "group": "HR",
     "email": "josephclark@example.com"
   },
   {
     "id": "214",
     "fullname": "Mia Lewis",
-    "position": "QA",
+    "group": "QA",
     "email": "milewis@example.com"
   },
   {
     "id": "215",
     "fullname": "Andrew Walker",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "andrewwalker@example.com"
   },
   {
     "id": "216",
     "fullname": "Emma Hall",
-    "position": "manager",
+    "group": "Managers",
     "email": "emmahall@example.com"
   },
   {
     "id": "217",
     "fullname": "Christopher Young",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "christopheryoung@example.com"
   },
   {
     "id": "218",
     "fullname": "Abigail Allen",
-    "position": "HR",
+    "group": "HR",
     "email": "abigailallen@example.com"
   },
   {
     "id": "219",
     "fullname": "Joshua King",
-    "position": "QA",
+    "group": "QA",
     "email": "joshuaking@example.com"
   },
   {
     "id": "220",
     "fullname": "Charlotte Scott",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "charlottescott@example.com"
   },
   {
     "id": "221",
     "fullname": "Andrew Hernandez",
-    "position": "manager",
+    "group": "Managers",
     "email": "andrewhernandez@example.com"
   },
   {
     "id": "222",
     "fullname": "Phillip Fry",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "futuramaforever@example.com"
   },
   {
     "id": "223",
     "fullname": "Christopher Baker",
-    "position": "HR",
+    "group": "HR",
     "email": "christopherbaker@example.com"
   },
   {
     "id": "224",
     "fullname": "Chloe Adams",
-    "position": "QA",
+    "group": "QA",
     "email": "chloeadams@example.com"
   },
   {
     "id": "225",
     "fullname": "Daniel Wright",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "danielwright@example.com"
   },
   {
     "id": "226",
     "fullname": "Olivia Lopez",
-    "position": "manager",
+    "group": "Managers",
     "email": "olivialopez@example.com"
   },
   {
     "id": "227",
     "fullname": "Jacob Hill",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "jacobhill@example.com"
   },
   {
     "id": "228",
     "fullname": "Emily Cook",
-    "position": "HR",
+    "group": "HR",
     "email": "emilycook@example.com"
   },
   {
     "id": "229",
     "fullname": "Logan Nelson",
-    "position": "QA",
+    "group": "QA",
     "email": "logannelson@example.com"
   },
   {
     "id": "230",
     "fullname": "Grace Lee",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "gracelee@example.com"
   },
   {
     "id": "231",
     "fullname": "Matthew Perez",
-    "position": "manager",
+    "group": "Managers",
     "email": "matthewperez@example.com"
   },
   {
     "id": "232",
     "fullname": "Ella Murphy",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "ellamurphy@example.com"
   },
   {
     "id": "233",
     "fullname": "Ryan Turner",
-    "position": "HR",
+    "group": "HR",
     "email": "ryantuner@example.com"
   },
   {
     "id": "234",
     "fullname": "Avery Hill",
-    "position": "QA",
+    "group": "QA",
     "email": "averyhill@example.com"
   },
   {
     "id": "235",
     "fullname": "Nathan Ward",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "nathanward@example.com"
   },
   {
     "id": "236",
     "fullname": "Sophia Flores",
-    "position": "manager",
+    "group": "Managers",
     "email": "sophiaflores@example.com"
   },
   {
     "id": "237",
     "fullname": "Grace Cox",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "gracecox@example.com"
   },
   {
     "id": "238",
     "fullname": "Samuel Rivera",
-    "position": "HR",
+    "group": "HR",
     "email": "samuelrivera@example.com"
   },
   {
     "id": "239",
     "fullname": "Lily Bennett",
-    "position": "QA",
+    "group": "QA",
     "email": "lilybennett@example.com"
   },
   {
     "id": "240",
     "fullname": "Ethan Brooks",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ethanbrooks@example.com"
   },
   {
     "id": "241",
     "fullname": "Ava Collins",
-    "position": "manager",
+    "group": "Managers",
     "email": "avacollins@example.com"
   },
   {
     "id": "242",
     "fullname": "Liam Ward",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "liamward@example.com"
   },
   {
     "id": "243",
     "fullname": "Layla Murphy",
-    "position": "HR",
+    "group": "HR",
     "email": "laylamurphy@example.com"
   },
   {
     "id": "244",
     "fullname": "Noah Turner",
-    "position": "QA",
+    "group": "QA",
     "email": "noahturner@example.com"
   },
   {
     "id": "245",
     "fullname": "Aria Foster",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ariafoster@example.com"
   },
   {
     "id": "246",
     "fullname": "Benjamin Powell",
-    "position": "manager",
+    "group": "Managers",
     "email": "benjaminpowell@example.com"
   },
   {
     "id": "247",
     "fullname": "Zoe Richardson",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "zoerichardson@example.com"
   },
   {
     "id": "248",
     "fullname": "Lucas Cox",
-    "position": "HR",
+    "group": "HR",
     "email": "lucascox@example.com"
   },
   {
     "id": "249",
     "fullname": "Mila Barnes",
-    "position": "QA",
+    "group": "QA",
     "email": "milabarnes@example.com"
   },
   {
     "id": "250",
     "fullname": "Henry Price",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "henryprice@example.com"
   },
   {
     "id": "251",
     "fullname": "Ronald Macdonald",
-    "position": "manager",
+    "group": "Managers",
     "email": "ronaldmacdonald@example.com"
   },
   {
     "id": "252",
     "fullname": "Adam Smith",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "admasmith@example.com"
   },
   {
     "id": "253",
     "fullname": "Artem Svetlov",
-    "position": "HR",
+    "group": "HR",
     "email": "artemsvetlov@example.com"
   },
   {
     "id": "254",
     "fullname": "Sarah Williams",
-    "position": "QA",
+    "group": "QA",
     "email": "sarahwilliams@example.com"
   },
   {
     "id": "255",
     "fullname": "Walter White",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "breakingbad@example.com"
   },
   {
     "id": "256",
     "fullname": "Emily Davis",
-    "position": "manager",
+    "group": "Managers",
     "email": "emilydavis@example.com"
   },
   {
     "id": "257",
     "fullname": "David Wilson",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "davidwilson@example.com"
   },
   {
     "id": "258",
     "fullname": "Jennifer Taylor",
-    "position": "HR",
+    "group": "HR",
     "email": "jennifertaylor@example.com"
   },
   {
     "id": "259",
     "fullname": "Christopher Martinez",
-    "position": "QA",
+    "group": "QA",
     "email": "christophermartinez@example.com"
   },
   {
     "id": "260",
     "fullname": "Amanda Anderson",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "amandaanderson@example.com"
   },
   {
     "id": "261",
     "fullname": "Daniel Thomas",
-    "position": "manager",
+    "group": "Managers",
     "email": "danielthomas@example.com"
   },
   {
     "id": "262",
     "fullname": "Melissa White",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "melissawhite@example.com"
   },
   {
     "id": "263",
     "fullname": "Jessica Clark",
-    "position": "HR",
+    "group": "HR",
     "email": "jessicaclark@example.com"
   },
   {
     "id": "264",
     "fullname": "Matthew Rodriguez",
-    "position": "QA",
+    "group": "QA",
     "email": "matthewrodriguez@example.com"
   },
   {
     "id": "265",
     "fullname": "Ashley Lewis",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "ashleylewis@example.com"
   },
   {
     "id": "266",
     "fullname": "Andrew Lee",
-    "position": "manager",
+    "group": "Managers",
     "email": "andrewlee@example.com"
   },
   {
     "id": "267",
     "fullname": "Stephanie Hall",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "stephaniehall@example.com"
   },
   {
     "id": "268",
     "fullname": "David Garcia",
-    "position": "HR",
+    "group": "HR",
     "email": "davidgarcia@example.com"
   },
   {
     "id": "269",
     "fullname": "Olivia Lee",
-    "position": "QA",
+    "group": "QA",
     "email": "olivialee@example.com"
   },
   {
     "id": "270",
     "fullname": "Joshua Perez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "joshuaperez@example.com"
   },
   {
     "id": "271",
     "fullname": "Lauren Young",
-    "position": "manager",
+    "group": "Managers",
     "email": "laurenyoung@example.com"
   },
   {
     "id": "272",
     "fullname": "Anthony Scott",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "anthonyscott@example.com"
   },
   {
     "id": "273",
     "fullname": "Maria Hernandez",
-    "position": "HR",
+    "group": "HR",
     "email": "mariahernandez@example.com"
   },
   {
     "id": "274",
     "fullname": "Ryan Moore",
-    "position": "QA",
+    "group": "QA",
     "email": "ryanmoore@example.com"
   },
   {
     "id": "275",
     "fullname": "Kimberly King",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "kimberlyking@example.com"
   },
   {
     "id": "276",
     "fullname": "Thomas Walker",
-    "position": "manager",
+    "group": "Managers",
     "email": "thomaswalker@example.com"
   },
   {
     "id": "277",
     "fullname": "Rebecca Green",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "rebeccagreen@example.com"
   },
   {
     "id": "278",
     "fullname": "Laura Adams",
-    "position": "HR",
+    "group": "HR",
     "email": "lauraadams@example.com"
   },
   {
     "id": "279",
     "fullname": "Jason Wright",
-    "position": "QA",
+    "group": "QA",
     "email": "jasonwright@example.com"
   },
   {
     "id": "280",
     "fullname": "Christina Rodriguez",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "christinarodriguez@example.com"
   },
   {
     "id": "281",
     "fullname": "Kevin Turner",
-    "position": "manager",
+    "group": "Managers",
     "email": "kevinturner@example.com"
   },
   {
     "id": "282",
     "fullname": "Catherine Baker",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "catherinebaker@example.com"
   },
   {
     "id": "283",
     "fullname": "Samantha Nelson",
-    "position": "HR",
+    "group": "HR",
     "email": "samanthanelson@example.com"
   },
   {
     "id": "284",
     "fullname": "Eric Foster",
-    "position": "QA",
+    "group": "QA",
     "email": "ericfoster@example.com"
   },
   {
     "id": "285",
     "fullname": "Michelle Cox",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "michellecox@example.com"
   },
   {
     "id": "286",
     "fullname": "Mark Murphy",
-    "position": "manager",
+    "group": "Managers",
     "email": "markmurphy@example.com"
   },
   {
     "id": "287",
     "fullname": "Christine Rivera",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "christinerivera@example.com"
   },
   {
     "id": "288",
     "fullname": "Angela Simmons",
-    "position": "HR",
+    "group": "HR",
     "email": "angelasimmons@example.com"
   },
   {
     "id": "289",
     "fullname": "Patrick Perry",
-    "position": "QA",
+    "group": "QA",
     "email": "patrickperry@example.com"
   },
   {
     "id": "290",
     "fullname": "Natalie Long",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "natalielong@example.com"
   },
   {
     "id": "291",
     "fullname": "Jeffrey Collins",
-    "position": "manager",
+    "group": "Managers",
     "email": "jeffreycollins@example.com"
   },
   {
     "id": "292",
     "fullname": "Tiffany Reed",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "tiffanyreed@example.com"
   },
   {
     "id": "293",
     "fullname": "Kelly Cook",
-    "position": "HR",
+    "group": "HR",
     "email": "kellycook@example.com"
   },
   {
     "id": "294",
     "fullname": "Justin Morgan",
-    "position": "QA",
+    "group": "QA",
     "email": "justinmorgan@example.com"
   },
   {
     "id": "295",
     "fullname": "Sandra Hughes",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "sandrahughes@example.com"
   },
   {
     "id": "296",
     "fullname": "Gary Ward",
-    "position": "manager",
+    "group": "Managers",
     "email": "garyward@example.com"
   },
   {
     "id": "297",
     "fullname": "Pamela Simmons",
-    "position": "accountant",
+    "group": "Accountants",
     "email": "pamelasimmons@example.com"
   },
   {
     "id": "298",
     "fullname": "Heather Gray",
-    "position": "HR",
+    "group": "HR",
     "email": "heathergray@example.com"
   },
   {
     "id": "299",
     "fullname": "Scott Foster",
-    "position": "QA",
+    "group": "QA",
     "email": "scottfoster@example.com"
   },
   {
     "id": "300",
     "fullname": "Amy Russell",
-    "position": "unmanaged",
+    "group": "Unmanaged",
     "email": "amyrussell@example.com"
   }
   
