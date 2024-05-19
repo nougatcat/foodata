@@ -8,7 +8,7 @@
   {
     "id": "2",
     "fullname": "Jane Johnson",
-    "group": "Managers",
+    "group": "QA",
     "email": "jane.johnson@example.com"
   },
   {
@@ -20,7 +20,7 @@
   {
     "id": "4",
     "fullname": "Emily Wilson",
-    "group": "Managers",
+    "group": "HR",
     "email": "emily.wilson@example.com"
   },
   {
@@ -68,7 +68,7 @@
   {
     "id": "12",
     "fullname": "Emma Martinez",
-    "group": "Accountants",
+    "group": "QA",
     "email": "emma.martinez@example.com"
   },
   {
@@ -86,7 +86,7 @@
   {
     "id": "15",
     "fullname": "Alexander Thomas",
-    "group": "Accountants",
+    "group": "Managers",
     "email": "alexander.thomas@example.com"
   },
   {
@@ -116,7 +116,7 @@
   {
     "id": "20",
     "fullname": "Ava Baker",
-    "group": "HR",
+    "group": "QA",
     "email": "ava.baker@example.com"
   },
   {
@@ -146,7 +146,7 @@
   {
     "id": "25",
     "fullname": "Samuel Campbell",
-    "group": "HR",
+    "group": "Managers",
     "email": "samuel.campbell@example.com"
   },
   {
@@ -176,7 +176,7 @@
   {
     "id": "30",
     "fullname": "Victoria Evans",
-    "group": "HR",
+    "group": "Accountants",
     "email": "victoria.evans@example.com"
   },
   {
@@ -188,19 +188,19 @@
   {
     "id": "32",
     "fullname": "Penelope Torres",
-    "group": "HR",
+    "group": "Accountants",
     "email": "penelope.torres@example.com"
   },
   {
     "id": "33",
     "fullname": "Levi Peterson",
-    "group": "HR",
+    "group": "Unmanaged",
     "email": "levi.peterson@example.com"
   },
   {
     "id": "34",
     "fullname": "Madison Gray",
-    "group": "HR",
+    "group": "Accountants",
     "email": "madison.gray@example.com"
   },
   {
@@ -212,13 +212,13 @@
   {
     "id": "36",
     "fullname": "Chloe Watson",
-    "group": "HR",
+    "group": "QA",
     "email": "chloe.watson@example.com"
   },
   {
     "id": "37",
     "fullname": "Aaron Brooks",
-    "group": "HR",
+    "group": "Managers",
     "email": "aaron.brooks@example.com"
   },
   {
@@ -284,7 +284,7 @@
   {
     "id": "48",
     "fullname": "Daria Vasnetsova",
-    "group": "QA",
+    "group": "Managers",
     "email": "daria.vasnetsova@example.com"
   },
   {
@@ -296,7 +296,7 @@
   {
     "id": "50",
     "fullname": "Leah Foster",
-    "group": "QA",
+    "group": "HR",
     "email": "leah.foster@example.com"
   },
   {
