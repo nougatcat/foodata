@@ -14,7 +14,7 @@
   {
     "id": 3,
     "fullname": "Michael Davis",
-    "group": "Managers",
+    "group": "HR",
     "email": "michael.davis@example.com"
   },
   {
@@ -26,7 +26,7 @@
   {
     "id": 2,
     "fullname": "David Thompson",
-    "group": "Managers",
+    "group": "QA",
     "email": "david.thompson@example.com"
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": 7,
     "fullname": "Jennifer Lopez",
-    "group": "Accountants",
+    "group": "HR",
     "email": "jennifer.lopez@example.com"
   },
   {
@@ -56,7 +56,7 @@
   {
     "id": 10,
     "fullname": "Sophia Clark",
-    "group": "Accountants",
+    "group": "QA",
     "email": "sophia.clark1@example.com"
   },
   {
@@ -98,7 +98,7 @@
   {
     "id": 17,
     "fullname": "Ethan Hall",
-    "group": "Accountants",
+    "group": "QA",
     "email": "ethan.hall@example.com"
   },
   {
@@ -128,7 +128,7 @@
   {
     "id": 22,
     "fullname": "Charlotte Adams",
-    "group": "HR",
+    "group": "QA",
     "email": "charlotte.adams@example.com"
   },
   {
@@ -158,7 +158,7 @@
   {
     "id": 27,
     "fullname": "Sebastian Roberts",
-    "group": "HR",
+    "group": "Unmanaged",
     "email": "sebastian.roberts@example.com"
   },
   {
@@ -206,7 +206,7 @@
   {
     "id": 35,
     "fullname": "Joshua Ramirez",
-    "group": "HR",
+    "group": "Managers",
     "email": "joshua.ramirez@example.com"
   },
   {
@@ -230,7 +230,7 @@
   {
     "id": 39,
     "fullname": "Nathan Reed",
-    "group": "QA",
+    "group": "Unmanaged",
     "email": "nathan.reed@example.com"
   },
   {
@@ -260,7 +260,7 @@
   {
     "id": 44,
     "fullname": "Hannah Powell",
-    "group": "QA",
+    "group": "HR",
     "email": "hannah.powell@example.com"
   },
   {
